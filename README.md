@@ -7,7 +7,7 @@ Each day covers different topics to strengthen my basics and prepare for real-wo
 ## Day 1: Variables and Data Types
 - Practiced **basic print statements** and simple calculations
 - Explored **data types**: integers, floats, strings, booleans
-- Learned about **variable assignment** and naming rules
+
 
 
 ---
