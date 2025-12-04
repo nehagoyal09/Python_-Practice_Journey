@@ -1,17 +1,34 @@
-# Python_-Practice_Journey
-"This repository contains my daily challenge Python practice tasks and exercises as part of my learning journey."
-Each day covers different topics to strengthen my basics and prepare for real-world projects.
+# Python Practice Journey 🐍✨
+Stepwise notes and exercises to make Python learning simple and fun.
 
+## Highlights
+- Daily practice folders (Day 1 → Day 10)  
+- Clean, beginner-friendly code examples  
+- NumPy & Pandas practice with clear explanations  
 
- ## Highlights
-- Day 1: Basics (print, variables, input/output)
-- Day 2: Operators & Strings
-- Day 3: Lists & Tuples
-- Day 4: Dictionaries & Sets
-- Day 5: Advanced Practice
+## Daily Progress
+- **Day 1** → Python basics: variables, data types, loops
+- 
+- **Day 2** → Functions, arguments, return values
+- 
+- **Day 3** → NumPy arrays: creation, slicing, reshaping
+- 
+- **Day 4** → NumPy operations: indexing, stacking, concatenation
+- 
+- **Day 5** → Pandas Series: creation, indexing, slicing
+- 
+- **Day 6** → Pandas DataFrame: columns, rows, selection
+- 
+- **Day 7** → GroupBy, aggregation, merging datasets
+- 
+- **Day 8** → Reading/Writing CSV & Excel files
+- 
+- **Day 9** → Data cleaning & formatting (missing values, duplicates)
+-   
+- **Day 10** → Mini project: combining NumPy + Pandas for analysis  
 
+## How to Explore
+👉 Pick any **Day folder**, open the notebook, and follow the stepwise practice.
 
+---
 
-## 📌 Notes
-- All practice tasks are part of my learning journey during internship preparation at **Unified Mentorship Pvt Ltd**.
-- These notebooks reflect my step-by-step growth in Python and data 
